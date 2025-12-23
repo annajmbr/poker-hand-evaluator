@@ -1,0 +1,15 @@
+Erstelle ein vollständiges Go-Programm zur Poker-Hand Bewertung nach Texas Hold'em mit folgenden Anforderungen: 
+
+Das Programm muss objektorientiert sein, also auf 'Go-Klassen' basieren. Bei der Zuordnung von Funktionen zu structs sind Pointer Receivers zu verwenden. Klassen: Card, Hand
+Aufzählungstypen: Suit, Rank, HandVal
+
+Es soll eine 5 Karten-Hand bewerten können, also bei Beispielshafter Eingabe "H2 SQ C2 D2 CQ" soll  Full House ausgegeben werden. Das Programm soll auch 2 Hände vergleichen können (wer gewinnt/gleichstand) und es soll auch die beste 5 Karten Hand aus 7 Karten finden können.
+
+Die Klasse Hand ist entsprechend der Go-Konventionen zu testen (hand.go --> hand_test.go)
+
+Die Abgabe muss auch die Test-Reports, inklusive Coverage, enthalten. 
+
+Erstelle alle notwendigen Dateien mit Go-Konventionen und dokumentiere den Code
+
+
+
