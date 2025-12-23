@@ -12,4 +12,4 @@ Die Abgabe muss auch die Test-Reports, inklusive Coverage, enthalten.
 Erstelle alle notwendigen Dateien mit Go-Konventionen und dokumentiere den Code
 
 
-
+Weitere Änderungen wurden nur mittels Prompts durchgeführt, welche Bezug auf die Ordnerstruktur und somit die notwendigen Packages hatten. Alles andere wurde rein aus diesem Prompt erhalten.
